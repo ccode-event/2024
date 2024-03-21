@@ -1,4 +1,4 @@
-# Open Development Events for [year]
+# Open Development Events for 2024
 Here's the table of content for all the events under the different categories.
 
 ## Open Table for Executives
